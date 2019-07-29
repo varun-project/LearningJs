@@ -44,6 +44,7 @@ function calculateResults() {
     // console.log(calculatedpayments+calculatedInterest);
 
     console.log(x);
+    console.log(1);
     e.preventDefault();
 
 setTimeout(clearerror,3000);
