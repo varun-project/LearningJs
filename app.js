@@ -45,6 +45,7 @@ function calculateResults() {
 
     console.log(x);
     console.log(1);
+    console.log('varun');
     e.preventDefault();
 
 setTimeout(clearerror,3000);
